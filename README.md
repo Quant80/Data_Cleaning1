@@ -1,6 +1,4 @@
 # Data_Cleaning1
-Instructions
-
 1. Write a Python program for the data file below.
 
 https://campus.contech.university/files/3003/download?download_frd=1
